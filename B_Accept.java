@@ -60,3 +60,5 @@ public class B_Accept {
         System.out.printf("%d\n",m-n[mid-1]);
     }
 }
+
+//a change hhhhhh
